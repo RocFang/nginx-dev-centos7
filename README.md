@@ -1,4 +1,4 @@
 ### About
 
-nginx-dev-centos7 is docker image for Nginx developme, including basic development tools.
+nginx-dev-centos7 is docker image for Nginx development in Centos7, including basic development tools.
 
