@@ -10,3 +10,4 @@ RUN yum install -y vim
 RUN yum install -y pcre-devel
 RUN yum install -y zlib-devel
 RUN yum install -y git
+RUN yum install -y lrzsz
